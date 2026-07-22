@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+myenv/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+*.docx
+**/*_sorted.csv
+**/*_ionospheric_delay.csv
+
+
+
+generated_plots/*
